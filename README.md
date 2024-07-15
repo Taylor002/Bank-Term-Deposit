@@ -19,7 +19,7 @@ The following power  bi features were incorporated for second question:
 - Click on New Query in the toolbar.
 - Paste the corrected query:
 - Paste the query SELECT TOP 20 * FROM [CSV Database].[dbo].[Bank Term Deposit Subscription]; into the query window.
-  ![image alt](https://github.com/Taylor002/Bank-Term-Deposit/blob/main/SQL%20Query.png?raw=true)
+  ![image alt](https://github.com/Taylor002/Bank-Term-Deposit/blob/a31fdeabc3f6010eb75e7d005d97d997b25f854f/Power%20BI%20Screenshot.png)
   ![image alt](https://github.com/Taylor002/Bank-Term-Deposit/blob/main/SQL%20Query.png?raw=true)
 
 
